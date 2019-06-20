@@ -62,7 +62,7 @@ def evaluate(results, accuracy, f1):
     # Create figure
     #fig, ax = pl.subplots(2, 3, figsize = (11,7))
     #fig, ax = pl.subplots(2, 3, figsize = (25,15))
-    fig, ax = pl.subplots(2, 3, figsize = (11,11))
+    fig, ax = pl.subplots(2, 3, figsize = (13,11))
     
     #fig.tight_layout()
 
